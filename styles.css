@@ -77,6 +77,11 @@ html, body {
 }
 
 .container {
+    max-width: 550px;
+    margin: 0 auto;
+    padding: 0 1.5em;
+}
+.container-shop {
     max-width: 900px;
     margin: 0 auto;
     padding: 0 1.5em;
