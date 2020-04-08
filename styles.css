@@ -185,6 +185,7 @@ html, body {
 .titulinis-text-bold {
     color: #555;
     width: 25%;
+    font-size: 1.1em;
     font-weight: bold;
     vertical-align: text-top;
 }
