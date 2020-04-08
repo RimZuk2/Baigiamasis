@@ -1,5 +1,5 @@
-/*@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700');*/
-/*@import url("https://fonts.googleapis.com/css?family=Metal+Mania");*/
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700');
+@import url("https://fonts.googleapis.com/css?family=Metal+Mania");
 
 @font-face {
     font-family: "Booter - Zero Zero";
@@ -170,8 +170,7 @@ html, body {
     padding: 0;
     text-align: left;
 }
-/*Pirmo psl. css
-Pakeisti tour row*/
+/*Pirmo psl. css*/
 .titulinis-row {
     border-bottom: 1px solid black;
     padding-bottom: 1em;
@@ -201,18 +200,9 @@ Pakeisti tour row*/
 .paveikslelis{
     height: 100px;
 }
-/*.paveikslelis-span{*/
-/*    width: 42%;*/
-/*}*/
-
-/*.tour-arena {*/
-/*    width: 42%;*/
-/*}*/
-
-/*.tour-btn {*/
-/*     max-width: 19%;*/
-/* }*/
-
+.raudona{
+    color: #eb2e27;
+}
 .shop-item {
     margin: 30px;
 }
