@@ -199,30 +199,30 @@ html, body {
 }
 /*Pirmo psl. css
 Pakeisti tour row*/
-.tour-row {
+.titulinis-row {
     border-bottom: 1px solid black;
     padding-bottom: 1em;
     margin-bottom: 1em;
 }
 
-.tour-row:last-child {
+.titulinis-row:last-child {
     border: none;
 }
 
-.tour-item {
+.titulinis-item {
     display: inline-block;
     padding-right: .5em;
     vertical-align: text-top;
 }
 
-.tour-date {
+.titulinis-text-bold {
     color: #555;
     width: 25%;
     font-weight: bold;
     vertical-align: text-top;
 }
 
-.tour-city {
+.titulinis-text-simple {
     width: 35%;
 }
 .paveikslelis{
