@@ -90,7 +90,7 @@ html, body {
 }
 
 .about-band-image {
-    float: left;
+    float: right;
     height: 200px;
     width: 200px;
     margin: 15px;
@@ -168,6 +168,29 @@ html, body {
 
 .btn-primary:hover {
     background-color: #2D9CDB;
+}
+
+/*Formos mygtukai*/
+.forma-input {
+    height: 34px;
+    width: 250px;
+    border-radius: 5px;
+    border: 1px solid #56CCF2;
+    background-color: #eee;
+    color: #333;
+    padding: 0;
+    text-align: left;
+    margin-bottom: .5em;
+}
+.forma-input-big {
+    height: 150px;
+    width: 250px;
+    border-radius: 5px;
+    border: 1px solid #56CCF2;
+    background-color: #eee;
+    color: #333;
+    padding: 0;
+    text-align: left;
 }
 /*Pirmo psl. css
 Pakeisti tour row*/
